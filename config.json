@@ -1,0 +1,89 @@
+{
+
+  "user_credentials": {
+    "sender_email": "ENTER YOUR EMAIL HERE",
+    "sender_password": "ENTER YOUR PASSWORD HERE"
+  },
+
+  "user_information": {
+    "user_name": "YOUR FULL NAME/USERNAME USED TO IDENTIFY YOU BY THE SITE",
+    "user_phone": "PHONE NUMBER USED TO IDENTIFY YOU BY THE SITE",
+    "user_email": "EMAIL USED TO SIGN UP/IDENTIFY YOU BY THE SITE"
+  },
+
+  "misc": {
+    "language": "english"
+  },
+
+  "email_list": {
+    "mediamarkt": "contact@mediamarkt.nl",
+    "lenovo": "ir@lenovo.com",
+    "godaddy": "privacy@godaddy.com",
+    "stackoverflow": "privacy@stackoverflow.com",
+    "discord": "support@discordapp.com.",
+    "habbo": "authorities.com@sulake.com",
+    "github": "legal@support.github.com",
+    "selly": "legal@selly.io",
+    "shoppy": "support@shoppy.gg",
+    "steam": "support@steampowered.com",
+    "epicgames": "dpo@epicgames.com",
+    "nordvpn": "privacy@nordvpn.com",
+    "digitalocean": "legal@digitalocean.com",
+    "twitter": "dpo@twitter.com",
+    "buzzfeed": "support@buzzfeed.com",
+    "alibaba": "dataprotection@service.alibaba.com",
+    "faceit": "support@faceit.com",
+    "ovh": "contact@ovh.com",
+    "expressvpn": "support@expressvpn.com",
+    "reddit": "legal@reddit.com",
+    "nike": "privacy@nike.com",
+    "netflix": "privacy@netflix.com",
+    "paypal": "dpo@paypal.com",
+    "dropbox": "privacy@dropbox.com",
+    "mediafire": "privacy@mediafire.com",
+    "mega": "privacy@mega.nz",
+    "mega.nz": "privacy@mega.nz",
+    "gfuel": "privacy@gfuel.com",
+    "ikea": "dataprivacy.cookies.gb@ikea.com",
+    "benq": "privacy@benq.eu",
+    "jetbrains": "privacy@jetbrains.com",
+    "intellij": "privacy@jetbrains.com",
+    "pycharm": "privacy@jetbrains.com",
+    "logitech": "privacy@logitech.com",
+    "steelseries": "privacy@steelseries.com",
+    "hyperx": "admin@thestartupx.com",
+    "corsair": "data.controller@corsair.com",
+    "getsession": "team@loki.network",
+    "loki network": "team@loki.network",
+    "session": "team@loki.network",
+    "stockx": "support@stockx.com",
+    "cloudflare": "privacyquestions@cloudflare.com",
+    "marktplaats": "privacy@marktplaats.nl",
+    "namecheap": "privacy@namecheap.com",
+    "gleam": "privacy@gleam.io",
+    "duolingo": "privacy@duolingo.com",
+    "mafiaway": "rickypietens@mafiaway.nl",
+    "mozilla": "compliance@mozilla.com",
+    "firefox": "compliance@mozilla.com",
+    "samsung": "NAPrivacy@sea.samsung.com",
+    "postnl": "fg@postnl.nl"
+    },
+
+  "provider_list": {
+    "yahoo": "smtp.mail.yahoo.com",
+    "gmail": "smtp.gmail.com",
+    "outlook": "smtp-mail.outlook.com",
+    "yandex": "smtp.yandex.ru",
+    "mail.com": "smtp.mail.com",
+    "zoho":  "smtp.zoho.com",
+    "aol": "smtp.aol.com",
+    "apple": "smtp.mail.me.com.",
+    "inbox.com": "smtp.inbox.com",
+    "ntlworld": "smtp.ntlworld.com",
+    "btinternet": "mail.btinternet.com",
+    "talktalk": "smtp.talktalk.net",
+    "orangefr": "smtp.premium.orange.fr",
+    "t-online": "securesmtp.t-online.de",
+    "laposte": "smtp.laposte.net"
+  }
+}
