@@ -32,6 +32,7 @@ Supported languages (set this in config.json) :u5272:
 ---
 * english (default)
 * nederlands
+
 Want to see the emails that will be sent out? Refer to this [github resource](https://github.com/good-lly/gdpr-documents/tree/master/docs)
 
 
