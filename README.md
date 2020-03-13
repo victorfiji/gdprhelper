@@ -11,6 +11,7 @@ How to use
 * Open config.json and change the fields required (see below)
 * cd into the folder (in cmd line: cd /dir/)
 * Now run the python scrypt using python gdpr.py
+* VERY IMPORTANT: FOR GOOGLE TURN ON "ALLOW LESS SECURE APPS" OR IT WILL NOT WORK.
 
 _Didn't work? Have more questions? Contact me here:_
 
