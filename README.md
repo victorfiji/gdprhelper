@@ -20,12 +20,12 @@ Session: 05cdeb365538a1d31b1c559f18eda821bb1d079c918acb3f0d63bcb4b755062d7b (get
 These are the variables you can/need to change inside the config file.
 ---
 
-* sender_email - The email that will be used to send the email
-* sender_password - The password to the email that will be used ot send the email
-* user_name - Your full name or the name you used to sign up with at the site.
-* user_phone - Your phone number or the number you used to sign up with at the site
-* user_email - Your email address you used to sign up with at the site OR the one that identifys you.
-* language - The language that your email will be sent in (refer below for all support languages)
+* `sender_email` - The email that will be used to send the email
+* `sender_password` - The password to the email that will be used ot send the email
+* `user_name` - Your full name or the name you used to sign up with at the site.
+* `user_phone` - Your phone number or the number you used to sign up with at the site
+* `user_email` - Your email address you used to sign up with at the site OR the one that identifys you.
+* `language` - The language that your email will be sent in (refer below for all support languages)
 
 Supported languages (set this in config.json) :u5272:
 ---
