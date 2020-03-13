@@ -5,7 +5,7 @@
 How to use
 ---
 
-* Make sure Python 3.8.2 is installed (get it from (python.org)[https://www.python.org/])
+* Make sure Python 3.8.2 is installed (get it from [python.org](https://www.python.org/))
 * Create a folder on your computer/laptop
 * Put all the contents in the folder
 * Open config.json and change the fields required (see below)
@@ -16,7 +16,7 @@ _Didn't work? Have more questions? Contact me here:_
 
 Discord: victorlean#4935
 
-Session: 05cdeb365538a1d31b1c559f18eda821bb1d079c918acb3f0d63bcb4b755062d7b (getsession.org)[https://getsession.org/]
+Session: 05cdeb365538a1d31b1c559f18eda821bb1d079c918acb3f0d63bcb4b755062d7b [getsession.org](https://getsession.org/)
 
 These are the variables you can/need to change inside the config file.
 ---
